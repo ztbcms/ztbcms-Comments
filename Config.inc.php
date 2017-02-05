@@ -12,7 +12,7 @@ return array(
 	//模块简介
 	'introduce' => '增加网站互动，用户评论管理',
 	//模块介绍地址
-	'address' => 'http://www.ztbcms.com',
+	'address' => 'http://doc.ztbcms.com/module/comments/',
 	//模块作者
 	'author' => 'ZtbCMS',
 	//作者地址
